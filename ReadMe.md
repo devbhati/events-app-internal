@@ -1,2 +1,2 @@
 # CND Sample Events App with Firestore - Internal - Backend - API Server
-# Changes in the new version
+Sample application created for docker deployment, container image and service interaction between front end and back end application
